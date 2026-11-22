@@ -1,0 +1,200 @@
+Filmmakers’ Favorite Films
+==========================
+
+Published favorites, poll selections and films explicitly championed by filmmakers in this repository. Each section identifies the context and source. Films can appear on more than one list.
+
+Wes Anderson reference: https://en.wikipedia.org/wiki/Wes_Anderson#Favorite_films
+
+Wes Anderson
+============
+2010 Criterion selections. Three Shōhei Imamura films were selected as one box set.
+
+Film title | Director | Release year
+The Earrings of Madame de… | Max Ophüls | 1953
+Au hasard Balthazar | Robert Bresson | 1966
+Pigs and Battleships | Shōhei Imamura | 1961
+The Insect Woman | Shōhei Imamura | 1963
+Unholy Desire (Intentions of Murder) | Shōhei Imamura | 1964
+The Taking of Power by Louis XIV | Roberto Rossellini | 1966
+The Spy Who Came in from the Cold | Martin Ritt | 1965
+The Friends of Eddie Coyle | Peter Yates | 1973
+Classe tous risques | Claude Sautet | 1960
+Naked Childhood | Maurice Pialat | 1968
+Mishima: A Life in Four Chapters | Paul Schrader | 1985
+The Exterminating Angel | Luis Buñuel | 1962
+
+Source: https://www.criterion.com/current/top-10-lists/115-wes-andersons-top-10
+
+Wes Anderson
+============
+2022 Sight and Sound ballot, in chronological order. The BFI dates Olivier, Olivier to 1992, the year of its first release.
+
+Film title | Director | Release year
+La Grande Illusion | Jean Renoir | 1937
+Quai des Orfèvres | Henri-Georges Clouzot | 1947
+The Earrings of Madame de… | Max Ophüls | 1953
+Vivre sa vie | Jean-Luc Godard | 1962
+The Man Who Loved Women | François Truffaut | 1977
+Loulou | Maurice Pialat | 1980
+Vagabond | Agnès Varda | 1985
+Olivier, Olivier | Agnieszka Holland | 1992
+It All Starts Today | Bertrand Tavernier | 1999
+Rois et reine (Kings and Queen) | Arnaud Desplechin | 2004
+
+Source: https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time/all-voters/wes-anderson
+
+Stanley Kubrick
+===============
+1963 Cinema magazine top ten, in published order.
+
+Film title | Director | Release year
+I Vitelloni | Federico Fellini | 1953
+Wild Strawberries | Ingmar Bergman | 1957
+Citizen Kane | Orson Welles | 1941
+The Treasure of the Sierra Madre | John Huston | 1948
+City Lights | Charles Chaplin | 1931
+Henry V | Laurence Olivier | 1944
+La Notte | Michelangelo Antonioni | 1961
+The Bank Dick | Edward F. Cline | 1940
+Roxie Hart | William A. Wellman | 1942
+Hell’s Angels | Howard Hughes | 1930
+
+Source: https://www.bfi.org.uk/sight-and-sound/stanley-kubrick-cinephile
+
+Paul Thomas Anderson
+====================
+Favorite film of 2022, named during a conversation with Ron Howard.
+
+Film title | Director | Release year
+Thirteen Lives | Ron Howard | 2022
+
+Source: https://thefilmstage.com/paul-thomas-anderson-says-his-favorite-film-of-2022-is-ron-howards-thirteen-lives/
+
+Akira Kurosawa
+==============
+The first 20 selections from the 100-film list compiled by Kazuko Kurosawa and published in Long Take. These are the early films in the published excerpt, in chronological order.
+
+Film title | Director | Release year
+Broken Blossoms | D. W. Griffith | 1919
+The Cabinet of Dr. Caligari | Robert Wiene | 1920
+Dr. Mabuse the Gambler | Fritz Lang | 1922
+The Gold Rush | Charles Chaplin | 1925
+The Fall of the House of Usher | Jean Epstein | 1928
+Un Chien Andalou | Luis Buñuel | 1929
+Morocco | Josef von Sternberg | 1930
+Congress Dances | Erik Charell | 1931
+The Threepenny Opera | G. W. Pabst | 1931
+Unfinished Symphony | Willi Forst and Anthony Asquith | 1934
+The Thin Man | W. S. Van Dyke | 1934
+Our Neighbor Miss Yae | Yasujirō Shimazu | 1934
+The Million Ryo Pot | Sadao Yamanaka | 1935
+Capricious Young Man | Mansaku Itami | 1936
+La Grande Illusion | Jean Renoir | 1937
+Stella Dallas | King Vidor | 1937
+The School for Spelling | Kajirō Yamamoto | 1938
+Earth | Tomu Uchida | 1939
+Ninotchka | Ernst Lubitsch | 1939
+Ivan the Terrible, Part I and Part II | Sergei Eisenstein | 1944 and 1958 (Part II completed in 1946)
+
+Source: https://www.moviemaker.com/akira-kurosawa-favorite-films/
+
+Ingmar Bergman
+==============
+Eleven world cinema favorites selected in 1994. Andrei Rublev first screened in 1966 and played at Cannes in 1969.
+
+Film title | Director | Release year
+The Circus | Charles Chaplin | 1928
+Port of Shadows | Marcel Carné | 1938
+The Conductor | Andrzej Wajda | 1980
+Raven’s End | Bo Widerberg | 1963
+The Passion of Joan of Arc | Carl Theodor Dreyer | 1928
+The Phantom Carriage | Victor Sjöström | 1921
+Rashomon | Akira Kurosawa | 1950
+La Strada | Federico Fellini | 1954
+Sunset Boulevard | Billy Wilder | 1950
+Marianne and Juliane (The German Sisters) | Margarethe von Trotta | 1981
+Andrei Rublev | Andrei Tarkovsky | 1966
+
+Source: https://www.ingmarbergman.se/en/universe/film-history-according-bergman
+
+Jean-Luc Godard
+===============
+Ten American films, published in the December 1963–January 1964 issue of Cahiers du cinéma, in published order.
+
+Film title | Director | Release year
+Scarface | Howard Hawks | 1932
+The Great Dictator | Charles Chaplin | 1940
+Vertigo | Alfred Hitchcock | 1958
+The Searchers | John Ford | 1956
+Singin’ in the Rain | Gene Kelly and Stanley Donen | 1952
+The Lady from Shanghai | Orson Welles | 1947
+Bigger Than Life | Nicholas Ray | 1956
+Angel Face | Otto Preminger | 1952
+To Be or Not to Be | Ernst Lubitsch | 1942
+Dishonored | Josef von Sternberg | 1931
+
+Source: https://mistdriven.com/critics/godard.html
+
+Federico Fellini
+================
+Two Chaplin films Fellini singled out for praise, as reported by Edward Murray.
+
+Film title | Director | Release year
+City Lights | Charles Chaplin | 1931
+Monsieur Verdoux | Charles Chaplin | 1947
+
+Source: https://www.enotes.com/topics/federico-fellini/criticism/fellini-federico-vol-85/criticism/edward-murray-essay-date-1976
+
+Andrei Tarkovsky
+================
+Top ten written for Leonid Kozlov on April 16, 1972, in Tarkovsky’s order.
+
+Film title | Director | Release year
+Diary of a Country Priest | Robert Bresson | 1951
+Winter Light | Ingmar Bergman | 1963
+Nazarín | Luis Buñuel | 1959
+Wild Strawberries | Ingmar Bergman | 1957
+City Lights | Charles Chaplin | 1931
+Ugetsu | Kenji Mizoguchi | 1953
+Seven Samurai | Akira Kurosawa | 1954
+Persona | Ingmar Bergman | 1966
+Mouchette | Robert Bresson | 1967
+Woman in the Dunes | Hiroshi Teshigahara | 1964
+
+Source: https://www.nostalghia.com/TheTopics/Tarkovsky-TopTen.html
+
+Pedro Almodóvar
+===============
+Ten favorite films of the 21st century, submitted to elDiario.es in 2025. Unranked.
+
+Film title | Director | Release year
+Ten | Abbas Kiarostami | 2002
+Call Me by Your Name | Luca Guadagnino | 2017
+Toni Erdmann | Maren Ade | 2016
+Phantom Thread | Paul Thomas Anderson | 2017
+Amour | Michael Haneke | 2012
+La Ciénaga | Lucrecia Martel | 2001
+Sentimental Value | Joachim Trier | 2025
+Drive My Car | Ryūsuke Hamaguchi | 2021
+Anatomy of a Fall | Justine Triet | 2023
+Sirāt | Óliver Laxe | 2025
+
+Source: https://www.eldiario.es/cultura/cine/pedro-almodovar-elige-mejores-peliculas-siglo-xxi_1_12858326.html
+
+François Truffaut
+=================
+Selected films Truffaut championed in The Films in My Life (1975), drawn from LaCinetek’s book index. Unranked excerpt.
+
+Film title | Director | Release year
+Zero for Conduct | Jean Vigo | 1933
+L’Atalante | Jean Vigo | 1934
+À propos de Nice | Jean Vigo and Boris Kaufman | 1930
+La Chienne | Jean Renoir | 1931
+Boudu Saved from Drowning | Jean Renoir | 1932
+Toni | Jean Renoir | 1935
+A Day in the Country | Jean Renoir | 1946 (shot in 1936)
+La Grande Illusion | Jean Renoir | 1937
+La Bête humaine | Jean Renoir | 1938
+The Rules of the Game | Jean Renoir | 1939
+
+Source: https://www.lacinetek.com/fr/la-liste-de/francois-truffaut-41
